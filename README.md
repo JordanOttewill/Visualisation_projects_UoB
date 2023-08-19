@@ -1,5 +1,5 @@
 # Visualisation_projects_UoB
-Data visualisation projects from my Masters degree.
+Data visualisation projects from my Masters degree. All code is in Python.
 
 CW1 features API pull of COVID19 data and different visualisations of the data within the API pull after convesion into dictionaries and dataframs before data cleansing and manipulation into the desired format for visualisations during pre-procesing.
 
